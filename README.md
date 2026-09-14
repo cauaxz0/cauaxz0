@@ -1,4 +1,9 @@
-## Hi there 👋
+Olá, eu sou Cauã!
+🚀 Sobre mim
+Sou um estudante de Ciência da Computação em busca de conhecimento adquirir, e aqui irei compartilhar meus projetos, sistemas.
+
+🛠 Habilidades
+Git, HTML, Python, C
 
 <!--
 **cauaxz0/cauaxz0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
