@@ -1,25 +1,13 @@
-# Olá, sou Cauã! 👋
+# Hi, I'm Cauã!
+## 🚀 About Me
+Sou um estudante de Ciência da Computação em busca de adquirir conhecimento, e aqui irei compartilhar meus projetos, sistemas.
 
-## 🧑‍💻 Sobre Mim
 
-Sou estudante de **Ciência da Computação**, atualmente no **2º período**. Tenho interesse em tecnologia e desenvolvimento de software e estou constantemente buscando aprimorar meus conhecimentos por meio dos estudos e de projetos acadêmicos e pessoais.
+## 🛠 Skills
+Git, HTML, Python, C
 
-### 🎯 Objetivo
 
-Meu objetivo é desenvolver uma base sólida em programação e tecnologia, adquirir experiência prática e evoluir profissionalmente na área de desenvolvimento de software.
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://cauaxz0.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caua-victor10)
 
-### 💡 Habilidades
-
-* 🐍 Python
-* 🔵 C
-* 🌐 HTML
-* 💻 Desenvolvimento Front-End
-* 🎨 UI/UX Design
-* 🐙 Git & GitHub
-* 🧠 Lógica de programação
-* 🤖 Engenharia de Prompt e aplicações em IA
-
-### 📚 Formação
-
-**Ciência da Computação**
-2º período — UNIPÊ
