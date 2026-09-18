@@ -1,4 +1,4 @@
-# OI, meu nome é Cauã!
+# Oii, meu nome é Cauã!
 ## 🚀 About Me
 Sou um estudante de Ciência da Computação no "Centro Universitário Unipê", meu objetivo é adquirir conhecimento no decorrer da graduação e aqui colocarei todos meus projetos, sistemas, códigos, não só para servir como meu portfólio, mas também para eu conseguir ver o quanto evolui no passar do tempo.
 
