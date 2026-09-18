@@ -1,11 +1,11 @@
-# Hi, I'm Cauã!
+# OI, meu nome é Cauã!
 ## 🚀 About Me
-Sou um estudante de Ciência da Computação em busca de adquirir conhecimento, e aqui irei compartilhar meus projetos, sistemas.
+Sou um estudante de Ciência da Computação no "Centro Universitário Unipê", meu objetivo é adquirir conhecimento no decorrer da graduação e aqui colocarei todos meus projetos, sistemas, códigos, não só para servir como meu portfólio, mas também para eu conseguir ver o quanto evolui no passar do tempo.
 
 
 ## 🛠 Skills
-Git, HTML, Python, C
-
+Linguagens de programação: Python, C
+Outras tecnologias e ferramentas: HTML, Git
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caua-victor10)
